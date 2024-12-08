@@ -30,4 +30,4 @@ The figure generation scripts are organized according to the order of the manusc
 Please follow the workflow in sequence to ensure data processing consistency. For any questions, contact the project lead.
 
 
-![Grapical Abstract](Grapical Abstract.png)
+![Grapical Abstract](https://raw.githubusercontent.com/lcy1364/Cortex-Atlas-Code/refs/heads/main/Grapical%20Abstract.jpg)
